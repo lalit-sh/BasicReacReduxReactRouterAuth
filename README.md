@@ -40,4 +40,6 @@ The folder structure of the app is as follows
         |__App.js
 
 
+**Note: Each component will hold its own css, test files. For Example Check src/Views/Home** 
+
 For futher details go down in the code and check out for yourself.
